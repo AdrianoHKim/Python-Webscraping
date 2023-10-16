@@ -1,2 +1,2 @@
-# Sql4DataScience
-Data Science notes and content.
+# Python to access web data
+Webscraping notes and content.
